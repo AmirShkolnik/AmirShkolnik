@@ -29,7 +29,7 @@ Software Developer
       - Python Testing
       - Full Stack Frameworks
       - Django Framework
-* ✉️  You can contact me at [amirshkolnik@gmail.com](mailto:amirshkolnik1@gmail.com).
+* ✉️  You can contact me at [amirshkolnik1@gmail.com](mailto:amirshkolnik1@gmail.com).
 
 ### Socials
 
