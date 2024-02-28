@@ -8,9 +8,9 @@ Now, I have chosen to further my education in web development to combine my pass
 I am a quick learner and motivated individual who always strives for growth. I thrive in a creative and challenging environment where I can use my knowledge and skills to create value for both clients and companies.
 
 
-Currently studying Full Stack Software Development at Code Institute, where I have picked up skills such as : 
+* Currently studying Full Stack Software Development at Code Institute, where I have picked up skills such as : 
 
-    * Frontend Development:
+   * Frontend Development:
       - <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> HTML
       - <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> CSS
       - <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a> JavaScript
@@ -18,8 +18,8 @@ Currently studying Full Stack Software Development at Code Institute, where I ha
       - Bootstrap
 
     * Backend Development:
-      - Python
-
+      - <a href="https://github.com/AmirShkolnik" target="_blank" rel="noreferrer"><img src="https://1000logos.net/wp-content/uploads/2020/08/Python-Emblem-500x313.jpg" width="36" height="23" alt="Python" /></a> Python
+             
     * Usability & Principles:
       - Principles of Agile
       - Design Thinking
