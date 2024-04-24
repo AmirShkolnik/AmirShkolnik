@@ -15,23 +15,23 @@ Over the last 6 months, I have acquired formal training in Django, Python, Boots
 
 ### Frontend Technologies:
 **- HTML (HyperText Markup Language):** Used for structuring the content of web pages.
-**- CSS (Cascading Style Sheets): ** Responsible for styling and layout, including colors, fonts, and positioning.
+**- CSS (Cascading Style Sheets):** Responsible for styling and layout, including colors, fonts, and positioning.
 **- JavaScript:** Enables dynamic and interactive features on the client side.
 
 ### Frontend frameworks and libraries:
-*** - jQuery: *** A JavaScript library that simplifies DOM manipulation and event handling.
-*** - Bootstrap: *** A CSS framework providing pre-designed components for responsive web design.
+**- jQuery:** A JavaScript library that simplifies DOM manipulation and event handling.
+**- Bootstrap:** A CSS framework providing pre-designed components for responsive web design.
 
 ### Backend Technologies:
-*** - Django: *** A Python web framework for building robust and scalable applications.
-*** - Flask: *** Another Python framework known for its simplicity and flexibility.
+**- Django:** A Python web framework for building robust and scalable applications.
+**- Flask:** Another Python framework known for its simplicity and flexibility.
 
 ### Database Management Systems: These handle data storage and retrieval.
-*** - PostgreSQL: *** A popular open-source relational database system.
-*** - Python Testing: *** Techniques for testing Python code.
+**- PostgreSQL:** A popular open-source relational database system.
+**- Python Testing:** Techniques for testing Python code.
 
 ### Full Stack Frameworks: These combine frontend and backend capabilities.
-*** - Django Framework: *** A full-stack Python framework.
+****- Django Framework:**** A full-stack Python framework.
 
 ### Principles and Concepts:
 *** - Principles of Agile: *** An iterative approach to software development, emphasizing collaboration, flexibility, and customer feedback.
