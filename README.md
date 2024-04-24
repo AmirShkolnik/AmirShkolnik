@@ -10,8 +10,8 @@ My work experience has provided me with valuable leadership skills, strong teamw
 
 The combination of my diverse experiences and ongoing education fuels my drive to learn and evolve. I consider myself a creative problem solver with strong analytical skills, eager to contribute to successful projects. I am ready to take on new challenges and contribute to the team with enthusiasm and dedication.
 
-* Over the last 6 months, I have acquired formal training in Django, Python, Bootstrap, HTML, CSS, JavaScript, MySQL, Agile and Postgres : 
-
+Over the last 6 months, I have acquired formal training in Django, Python, Bootstrap, HTML, CSS, JavaScript, MySQL, Agile and Postgres : 
+--------------------
 * Frontend Technologies:
 - HTML (HyperText Markup Language): Used for structuring the content of web pages.
 - CSS (Cascading Style Sheets): Responsible for styling and layout, including colors, fonts, and positioning.
