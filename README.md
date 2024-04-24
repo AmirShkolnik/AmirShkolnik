@@ -34,9 +34,9 @@ Over the last 6 months, I have acquired formal training in Django, Python, Boots
 ****- Django Framework:**** A full-stack Python framework.
 
 ### Principles and Concepts:
-*** - Principles of Agile: *** An iterative approach to software development, emphasizing collaboration, flexibility, and customer feedback.
-*** - Design Thinking: *** A problem-solving methodology that focuses on user empathy, creativity, and iterative design.
-*** - JavaScript Testing with Jest: *** Jest is a popular JavaScript testing framework.
+**- Principles of Agile:** An iterative approach to software development, emphasizing collaboration, flexibility, and customer feedback.
+**- Design Thinking:** A problem-solving methodology that focuses on user empathy, creativity, and iterative design.
+**- JavaScript Testing with Jest:** Jest is a popular JavaScript testing framework.
 
 * ✉️  You can contact me at [amirshkolnik1@gmail.com](mailto:amirshkolnik1@gmail.com).
 
