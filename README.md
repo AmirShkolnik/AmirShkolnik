@@ -15,7 +15,9 @@ Over the last 6 months, I have acquired formal training in Django, Python, Boots
 
 ### Frontend Technologies:
 **- HTML (HyperText Markup Language):** Used for structuring the content of web pages.
+
 **- CSS (Cascading Style Sheets):** Responsible for styling and layout, including colors, fonts, and positioning.
+
 **- JavaScript:** Enables dynamic and interactive features on the client side.
 
 ### Frontend frameworks and libraries:
