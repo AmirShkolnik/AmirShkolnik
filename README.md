@@ -14,9 +14,9 @@ The combination of my diverse experiences and ongoing education fuels my drive t
 Over the last 6 months, I have acquired formal training in Django, Python, Bootstrap, HTML, CSS, JavaScript, MySQL, Agile and Postgres : 
 
 ### Frontend Technologies:
-*** - HTML (HyperText Markup Language): *** Used for structuring the content of web pages.
-*** - CSS (Cascading Style Sheets): *** Responsible for styling and layout, including colors, fonts, and positioning.
-*** - JavaScript: *** Enables dynamic and interactive features on the client side.
+**- HTML (HyperText Markup Language):** Used for structuring the content of web pages.
+**- CSS (Cascading Style Sheets): ** Responsible for styling and layout, including colors, fonts, and positioning.
+**- JavaScript:** Enables dynamic and interactive features on the client side.
 
 ### Frontend frameworks and libraries:
 *** - jQuery: *** A JavaScript library that simplifies DOM manipulation and event handling.
