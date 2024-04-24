@@ -1,37 +1,42 @@
-Full Stack Software Development Student
+System Developer
 ------------------
+I have always had a keen interest in technology and how the world of technology works, and my background in tech demonstrates this.
 
-Over the past 7 years, I have worked as a digital marketer within the industrial (B2B) sector. During this time, I have developed a strong understanding of how to create and implement effective digital strategies. I have also learned to collaborate effectively with programmers and web developers to create user-friendly and efficient web solutions.
+Over the last 10 years, I have been primarily involved in digital marketing within the industrial (B2B) sector, programming, and web development. My attention to detail and inquisitive nature have lent itself to immersing myself in a Diploma in Full Stack Software Development with Code Institute.
 
-Now, I have chosen to further my education in web development to combine my passion for technology with my background in digital marketing. I also have practical experience in building websites and web applications. During my education, I am working on five projects, and currently, I am working on project number 4 - a full-stack web application. I am using technologies such as HTML, CSS, JavaScript, Agile, Python with Django, MySQL, and Postgres.
+During this time, I have developed a strong understanding of how to create and implement effective digital strategies. I have also learned to collaborate effectively with programmers and web developers to create user-friendly and efficient web solutions.
 
-I am a quick learner and motivated individual who always strives for growth. I thrive in a creative and challenging environment where I can use my knowledge and skills to create value for both clients and companies.
+My work experience has provided me with valuable leadership skills, strong teamwork abilities, and effective problem-solving capabilities, especially under pressure. In the logistics industry, I have managed projects, handled warehouse operations, and overseen supply chains. Additionally, my marketing roles have involved content creation, social media management, and campaign coordination.
 
+The combination of my diverse experiences and ongoing education fuels my drive to learn and evolve. I consider myself a creative problem solver with strong analytical skills, eager to contribute to successful projects. I am ready to take on new challenges and contribute to the team with enthusiasm and dedication.
 
-* Currently studying Full Stack Software Development at Code Institute, where I have picked up skills such as : 
+* Over the last 6 months, I have acquired formal training in Django, Python, Bootstrap, HTML, CSS, JavaScript, MySQL, Agile and Postgres : 
 
-   * Frontend Development:
-      - <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> HTML
-      - <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> CSS
-      - <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a> JavaScript
-      - jQuery
-      - Bootstrap
+* Frontend Technologies:
+- HTML (HyperText Markup Language): Used for structuring the content of web pages.
+- CSS (Cascading Style Sheets): Responsible for styling and layout, including colors, fonts, and positioning.
+- JavaScript: Enables dynamic and interactive features on the client side.
 
-    * Backend Development:
-      - <a href="https://github.com/AmirShkolnik" target="_blank" rel="noreferrer"><img src="https://1000logos.net/wp-content/uploads/2020/08/Python-Emblem-500x313.jpg" width="36" height="23" alt="Python" /></a> Python
-             
-    * Usability & Principles:
-      - Principles of Agile
-      - Design Thinking
+* Frontend frameworks and libraries:
+- jQuery: A JavaScript library that simplifies DOM manipulation and event handling.
+- Bootstrap: A CSS framework providing pre-designed components for responsive web design.
 
-    * Skills that will be added to the list in upcoming months: 
-      - JavaScript Testing with Jest
-      - Flask Framework
-      - Database Management Systems
-      - PostgreSQL
-      - Python Testing
-      - Full Stack Frameworks
-      - Django Framework
+* Backend Technologies:
+- Django: A Python web framework for building robust and scalable applications.
+- Flask: Another Python framework known for its simplicity and flexibility.
+
+* Database Management Systems: These handle data storage and retrieval.
+- PostgreSQL: A popular open-source relational database system.
+- Python Testing: Techniques for testing Python code.
+
+* Full Stack Frameworks: These combine frontend and backend capabilities.
+- Django Framework: A full-stack Python framework.
+
+* Principles and Concepts:
+- Principles of Agile: An iterative approach to software development, emphasizing collaboration, flexibility, and customer feedback.
+- Design Thinking: A problem-solving methodology that focuses on user empathy, creativity, and iterative design.
+- JavaScript Testing with Jest: Jest is a popular JavaScript testing framework.
+
 * ✉️  You can contact me at [amirshkolnik1@gmail.com](mailto:amirshkolnik1@gmail.com).
 
 ### Socials
