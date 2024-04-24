@@ -22,22 +22,27 @@ Over the last 6 months, I have acquired formal training in Django, Python, Boots
 
 ### Frontend frameworks and libraries:
 **- jQuery:** A JavaScript library that simplifies DOM manipulation and event handling.
+
 **- Bootstrap:** A CSS framework providing pre-designed components for responsive web design.
 
 ### Backend Technologies:
 **- Django:** A Python web framework for building robust and scalable applications.
+
 **- Flask:** Another Python framework known for its simplicity and flexibility.
 
 ### Database Management Systems: These handle data storage and retrieval.
 **- PostgreSQL:** A popular open-source relational database system.
+
 **- Python Testing:** Techniques for testing Python code.
 
 ### Full Stack Frameworks: These combine frontend and backend capabilities.
-****- Django Framework:**** A full-stack Python framework.
+**- Django Framework:** A full-stack Python framework.
 
 ### Principles and Concepts:
 **- Principles of Agile:** An iterative approach to software development, emphasizing collaboration, flexibility, and customer feedback.
+
 **- Design Thinking:** A problem-solving methodology that focuses on user empathy, creativity, and iterative design.
+
 **- JavaScript Testing with Jest:** Jest is a popular JavaScript testing framework.
 
 * ✉️  You can contact me at [amirshkolnik1@gmail.com](mailto:amirshkolnik1@gmail.com).
