@@ -1,9 +1,9 @@
 # Junior Software Developer
 ### About Me
 
-I have always had a keen interest in technology and how the world of technology works, and my background in tech demonstrates this.
+I have always had a keen interest in technology and how the world of technology works.
 
-Over the last 10 years, I have been primarily involved in digital marketing within the industrial (B2B) sector, programming, and web development. During this time, I have developed a strong understanding of how to create and implement effective digital strategies. I have also learned to collaborate effectively with programmers and web developers to create user-friendly and efficient web solutions.
+Over the last years, I have been primarily involved in digital marketing within the industrial (B2B) sector, programming, and web development. During this time, I have developed a strong understanding of how to create and implement effective digital strategies. I have also learned to collaborate effectively with programmers and web developers to create user-friendly and efficient web solutions.
 
 My work experience has provided me with valuable leadership skills, strong teamwork abilities, and effective problem-solving capabilities, especially under pressure. In the logistics industry, I have managed projects, handled warehouse operations, and overseen supply chains. Additionally, my marketing roles have involved content creation, social media management, and campaign coordination.
 
