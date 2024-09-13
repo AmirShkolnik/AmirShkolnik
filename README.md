@@ -23,7 +23,10 @@ Over the last 10 months, I have acquired formal training in Django, Python, Boot
 
 ### Frontend frameworks and libraries:
 
-**- jQuery:** A JavaScript library that simplifies DOM manipulation and event handling.
+
+**- React:** A JavaScript library that simplifies DOM manipulation and event handling.
+ - https://divingspace-900b5a3db777.herokuapp.com
+ - https://github.com/AmirShkolnik/DivingCenter
 
 **- Bootstrap:** A CSS framework providing pre-designed components for responsive web design.
 
@@ -32,6 +35,9 @@ Over the last 10 months, I have acquired formal training in Django, Python, Boot
 ### Backend Technologies:
 
 **- Django:** A Python web framework for building robust and scalable applications.
+  - Diving Center API - https://github.com/AmirShkolnik/DivingCenter_API
+  - https://github.com/AmirShkolnik/Cups-of-Joy
+  - https://cupsofjoy-c2c917eb3f59.herokuapp.com
 
 **- Flask:** Another Python framework known for its simplicity and flexibility.
 
